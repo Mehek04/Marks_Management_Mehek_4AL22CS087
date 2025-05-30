@@ -1,4 +1,4 @@
-# 🎓 Student Mark Management System
+3# 🎓 Student Mark Management System
 A Java-based dynamic web application for managing student marks. This project supports CRUD operations and report generation using JSP, Servlets, JDBC, and MySQL. It is developed as a Dynamic Web Project in Eclipse IDE and deployed on Apache Tomcat.
 # 📌 Features
 📝 Add a new student mark record
@@ -80,7 +80,7 @@ pgsql
 Copy
 Edit
 MarkWebApp/
-├── WebContent/
+├── WebContent/   
 │   ├── index.jsp
 │   ├── markadd.jsp
 │   ├── markupdate.jsp
