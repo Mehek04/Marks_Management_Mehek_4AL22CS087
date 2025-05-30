@@ -78,32 +78,32 @@ http://localhost:8080/MarkWebApp/
 📁 Project Structure
 pgsql
 Copy
-Edit
-MarkWebApp/
-├── WebContent/                     
+Edit                       
+MarkWebApp/                                   
+├── WebContent/                                      
 │   ├── index.jsp                       
 │   ├── markadd.jsp                   
 │   ├── markupdate.jsp                        
 │   ├── markdelete.jsp                  
-│   ├── markdisplay.jsp                         
-│   ├── displayMarks.jsp                            
-│   ├── reports.jsp                                      
-│   ├── report_form.jsp
-│   └── report_result.jsp
-├── src/
-│   ├── dao/
-│   │   └── MarkDAO.java
-│   ├── model/
-│   │   └── StudentMark.java
-│   └── servlet/
-│       ├── AddMarkServlet.java
-│       ├── UpdateMarkServlet.java
-│       ├── DeleteMarkServlet.java
-│       ├── DisplayMarksServlet.java
-│       ├── ReportServlet.java
-│       └── ReportCriteriaServlet.java
-└── WEB-INF/
-    └── web.xml
+│   ├── markdisplay.jsp                                    
+│   ├── displayMarks.jsp                                                        
+│   ├── reports.jsp                                                      
+│   ├── report_form.jsp                            
+│   └── report_result.jsp                                   
+├── src/                              
+│   ├── dao/                                
+│   │   └── MarkDAO.java                              
+│   ├── model/                                          
+│   │   └── StudentMark.java                                    
+│   └── servlet/                                                
+│       ├── AddMarkServlet.java                                
+│       ├── UpdateMarkServlet.java                                 
+│       ├── DeleteMarkServlet.java                                   
+│       ├── DisplayMarksServlet.java                                         
+│       ├── ReportServlet.java                                                
+│       └── ReportCriteriaServlet.java                                                 
+└── WEB-INF/                                                              
+    └── web.xml                                                            
     
 # 🧪 Tools and Technologies
 Java (JDK 11+)
