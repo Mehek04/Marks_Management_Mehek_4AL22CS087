@@ -80,14 +80,14 @@ pgsql
 Copy
 Edit
 MarkWebApp/
-├── WebContent/   
-│   ├── index.jsp
-│   ├── markadd.jsp
-│   ├── markupdate.jsp
-│   ├── markdelete.jsp
-│   ├── markdisplay.jsp
-│   ├── displayMarks.jsp
-│   ├── reports.jsp
+├── WebContent/                     
+│   ├── index.jsp                       
+│   ├── markadd.jsp                   
+│   ├── markupdate.jsp                        
+│   ├── markdelete.jsp                  
+│   ├── markdisplay.jsp                         
+│   ├── displayMarks.jsp                            
+│   ├── reports.jsp                                      
 │   ├── report_form.jsp
 │   └── report_result.jsp
 ├── src/
